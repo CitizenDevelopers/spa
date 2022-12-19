@@ -21,7 +21,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Edit <code>Hello World!</code> Hello World!
+          Tente Outra Vez <code>Hello World!</code> Hello World!
         </p>
       </div>
       <p className="read-the-docs">
