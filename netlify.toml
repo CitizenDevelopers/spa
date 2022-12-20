@@ -1,4 +1,4 @@
-[Vite Build]
+[Build]
 base = "."
 command = "npm run build"
-publish = "./vite build/"
+publish = "./build/"
